@@ -28,6 +28,12 @@ The you can reproduce all the steps from the thesis using the notebooks. I recom
 
 
 
+## Confusion matrices preview
+
+<p align="center" style="padding-top: 10px">
+  <img src="./docs/matrices.png" />
+</p>
+
 ### Author 
 
 * Dr. Puglisi Lemuel @ DMI, UniCT

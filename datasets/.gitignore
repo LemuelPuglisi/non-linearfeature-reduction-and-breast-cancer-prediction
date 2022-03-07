@@ -1,0 +1,4 @@
+microarray/*
+ngs/*
+!microarray/.gitkeep
+!ngs/.gitkeep
